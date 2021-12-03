@@ -138,8 +138,9 @@
 
 					</div>
 				</div>
-				 { display:none}
+				 {display:none}
 			</section>
+			{display:none}
 
 		<!-- Four -->
 			<section id="four" class="wrapper style3">
@@ -151,9 +152,9 @@
 					</header>
 
 				</div>
-				 { display:none}
+				 {display:none}
 			</section>
-
+				{display:none}
 		<!-- Footer -->
 			<footer id="footer" class="wrapper">
 				<div class="inner">
@@ -198,9 +199,9 @@
 						&copy; Untitled Design: <a href="https://templated.co/">Juan</a>. Images <a href="https://unsplash.com/">Manuel</a>. Video <a href="http://juanma.es/">Coverr</a>.
 					</div>
 				</div>
-				 { display:none}
+				 {display:none}
 			</footer>
-
+				{display:none}
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
